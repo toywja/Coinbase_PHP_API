@@ -1,4 +1,4 @@
-# tmhOAuth
+# Coinbase PHP API
 
 An Coinbase Bitcoin API library written in PHP by Marcus Yearwood
 
